@@ -25,3 +25,5 @@ simplify(
 #kegg
 kk <- gseKEGG(geneList,organism = "hsa")
 dotplot(kk,title="gseKEGG")
+
+##新增
